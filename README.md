@@ -8,3 +8,4 @@ Learning Git locally.
 I follow the steps from creating repo, branch, commit and pull changes.
 
 ## GitHub Desktop Practice
+Three branches has already created.
